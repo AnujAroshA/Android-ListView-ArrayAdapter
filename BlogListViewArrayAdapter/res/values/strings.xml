@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">My Songs List</string>
+    <string name="app_name">Songs List</string>
+    
+    <color name="topicColor">#0000FF</color>
+
+</resources>
